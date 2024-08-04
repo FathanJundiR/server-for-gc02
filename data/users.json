@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Sal Kordova",
+    "email": "sal@mail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": "0843225",
+    "address": "Jakarta"
+  },
+  {
+    "username": "Clyde Kimbrey",
+    "email": "clyde@mail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": "0843254",
+    "address": "Jakarta"
+  },
+  {
+    "username": "Humberto Pardew",
+    "email": "humberto@artisteer.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "0843264",
+    "address": "Jakarta"
+  }
+]
